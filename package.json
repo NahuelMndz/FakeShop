@@ -1,6 +1,7 @@
 {
   "name": "tiendaproductos",
   "private": true,
+  "homepage": "http:/NahuelMndz.github.io/FakeShop",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
