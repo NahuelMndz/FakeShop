@@ -14,7 +14,7 @@ function Products() {
   return (
     <>
     <div className="container-product">
-    <NavLink to='/'><button className="btn-back-responsive">Volver</button></NavLink>
+    <NavLink to='/FakeShop'><button className="btn-back-responsive">Volver</button></NavLink>
     <div className="box-product">
       <div className="container-product-imgs">
         <img onClick={() => setNumImg(0)} src={product.images[0]} alt="" />
@@ -26,7 +26,7 @@ function Products() {
       </div>
       <div className="container-product-data" >
         <div className="container-btn-back">
-          <NavLink to='/'><button className="btn-back">Volver</button></NavLink>
+          <NavLink to='/FakeShop'><button className="btn-back">Volver</button></NavLink>
         </div>
         <div className="container-product-info-name">
           <h2 className="product-info-name">{product.title}</h2>

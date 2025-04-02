@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <>
     <div className='header'>
-    <NavLink className='logo' to='/'>Fake Shop</NavLink>
+    <NavLink className='logo' to='/FakeShop'>Fake Shop</NavLink>
     <Cart/>
     </div>
     </>
