@@ -14,7 +14,7 @@ function App() {
         <Router>
         <Navbar/>
           <Routes>
-            <Route path='/' element={<Main/>} />
+            <Route path='/FakeShop' element={<Main/>} />
             <Route path='/product/:id' element={<Products/>} />
           </Routes>
         </Router>
