@@ -1,4 +1,4 @@
-# FakeShop – E-commerce Simulado con React
+# FakeShop – E-commerce Simulado
 
 Este es mi primer proyecto con react, es un e-ccomerce simulado con react Vite.
 
