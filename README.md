@@ -1,6 +1,6 @@
 # FakeShop – E-commerce Simulado
 
-Este es mi primer proyecto con react, es un e-ccomerce simulado con react Vite.
+Este es mi primer proyecto con react, es un e-commerce simulado con react Vite.
 
 # Tecnologías utilizadas
 
